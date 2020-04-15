@@ -7,5 +7,8 @@ generates a bar graph of GitHub repositories with the most stars for a programmi
 <strong>
   what I learned:
 </strong>
-- GitHub's API
-- Pygal module
+<br />
+<ul>
+  <li>GitHub's API</li>
+  <li>Pygal module</li>
+</ul>
