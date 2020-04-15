@@ -1,9 +1,11 @@
 generates a bar graph of GitHub repositories with the most stars for a programming language
 
-input: name of programming language
+<b>input</b>: name of programming language
 <br />
-output: starred_repos.svg (the graph)
+<b>output</b>: starred_repos.svg (the graph)
 
-what I learned:
+<strong>
+  what I learned:
+</strong>
 - GitHub's API
 - Pygal module
